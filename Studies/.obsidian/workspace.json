@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Learning/Configuring Git/Configuring Git.md",
+                "file": "Git Learning/Git Commands/Configuring Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Learning/Configuring Git/Configuring Git.md",
+                "file": "Git Learning/Git Commands/Configuring Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Learning/Configuring Git/Configuring Git.md",
+                "file": "Git Learning/Git Commands/Configuring Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Learning/Configuring Git/Configuring Git.md"
+                "file": "Git Learning/Git Commands/Configuring Git.md"
               }
             }
           }
@@ -148,17 +148,19 @@
   },
   "active": "cf9a773bb2d2f74f",
   "lastOpenFiles": [
+    "Git Learning/Git Commands/Creating Snapshots (LineCodes).md",
+    "Untitled.md",
+    "Git Learning/Git Commands/Configuring Git.md",
+    "System.md",
+    "Git Learning/Git_Index.md",
+    "Git Learning/How to use git.md",
+    "Git Learning/Version Control System.md",
     "Git Learning/Configuring Git/Global.md",
     "Untitled.canvas",
     "2024-10-23.md",
-    "Git Learning/Configuring Git/Configuring Git.md",
-    "System.md",
     "Local.md",
-    "Git Learning/Git_Index.md",
     "TUTORIAL MARKDOWN.md",
     "Welcome.md",
-    "Git Learning/Configuring Git",
-    "Git Learning/How to use git.md",
-    "Git Learning/Version Control System.md"
+    "Git Learning/Git Commands"
   ]
 }
