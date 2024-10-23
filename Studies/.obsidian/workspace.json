@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Learning/Git Commands/Configuring Git.md",
+                "file": "Git Learning/Git_Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Learning/Git Commands/Configuring Git.md",
+                "file": "Git Learning/Git_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Learning/Git Commands/Configuring Git.md",
+                "file": "Git Learning/Git_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Learning/Git Commands/Configuring Git.md"
+                "file": "Git Learning/Git_Index.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf9a773bb2d2f74f",
+  "active": "e32a7bc9a86ec03c",
   "lastOpenFiles": [
     "Git Learning/Git Commands/Creating Snapshots (LineCodes).md",
-    "Untitled.md",
     "Git Learning/Git Commands/Configuring Git.md",
+    "Untitled.md",
     "System.md",
     "Git Learning/Git_Index.md",
     "Git Learning/How to use git.md",
