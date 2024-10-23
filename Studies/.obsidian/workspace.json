@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Learning/Version Control System.md",
+                "file": "Git Learning/How to use git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Learning/Version Control System.md",
+                "file": "Git Learning/How to use git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Learning/Version Control System.md",
+                "file": "Git Learning/How to use git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Learning/Version Control System.md"
+                "file": "Git Learning/How to use git.md"
               }
             }
           }
@@ -148,7 +148,8 @@
   },
   "active": "6fef12951d6a8bef",
   "lastOpenFiles": [
-    "Git Learning/Git_Index.md",
-    "Git Learning/Version Control System.md"
+    "Git Learning/Version Control System.md",
+    "Git Learning/How to use git.md",
+    "Git Learning/Git_Index.md"
   ]
 }
