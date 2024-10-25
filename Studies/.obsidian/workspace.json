@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Learning/Git_Index.md",
+                "file": "Git Learning/Git Commands/Snapshots.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Snapshots"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Learning/Git_Index.md",
+                "file": "Git Learning/Git Commands/Snapshots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Snapshots"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Learning/Git_Index.md",
+                "file": "Git Learning/Git Commands/Snapshots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Snapshots"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Learning/Git_Index.md"
-              }
+                "file": "Git Learning/Git Commands/Snapshots.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Snapshots"
             }
           }
         ]
@@ -146,13 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e32a7bc9a86ec03c",
+  "active": "cf9a773bb2d2f74f",
   "lastOpenFiles": [
+    "Git Learning/Git_Index.md",
+    "Git Learning/Git Commands/Snapshots.md",
     "Git Learning/Git Commands/Creating Snapshots (LineCodes).md",
     "Git Learning/Git Commands/Configuring Git.md",
     "Untitled.md",
     "System.md",
-    "Git Learning/Git_Index.md",
     "Git Learning/How to use git.md",
     "Git Learning/Version Control System.md",
     "Git Learning/Configuring Git/Global.md",
