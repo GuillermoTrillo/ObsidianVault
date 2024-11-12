@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Learning/Git Commands/Snapshots.md",
+                "file": "Git Learning/Branches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snapshots"
+              "title": "Branches"
             }
           }
         ]
@@ -164,11 +164,12 @@
   },
   "active": "cf9a773bb2d2f74f",
   "lastOpenFiles": [
-    "Git Learning/Git_Index.md",
     "Git Learning/Git Commands/Snapshots.md",
+    "Git Learning/Branches.md",
+    "ene.md",
+    "Git Learning/Git_Index.md",
     "Git Learning/Git Commands/Creating Snapshots (LineCodes).md",
     "Git Learning/Git Commands/Configuring Git.md",
-    "Untitled.md",
     "System.md",
     "Git Learning/How to use git.md",
     "Git Learning/Version Control System.md",

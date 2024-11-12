@@ -19,3 +19,4 @@ A commit is the newest version with all the changes that you made in the files, 
 - Date: The date when it was created and sent.
 - Author: The name of the person that created the commit.
 - Snapshot: A complete snapshot of the project the moment the commit was created.
+
