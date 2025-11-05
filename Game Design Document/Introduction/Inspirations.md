@@ -1,0 +1,2 @@
+
+Inspired specially on Hollow Knight and Dark Souls, with touches of Armored Core, with visuals and gameplay, the game is a metroidvania with the main objective of being a interesting place to explore, with great visuals and a weight/movement feeling. With a shooter style of combat, where fighting is mostly optional, and different weapons for different types of players.
